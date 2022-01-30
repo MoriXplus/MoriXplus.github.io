@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Cookies Policy
-permalink: /cookies-policy/
+permalink: "/cookies-policy/"
+layout: page
 ---
 
 ## TL;DR

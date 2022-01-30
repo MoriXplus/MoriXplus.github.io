@@ -1,6 +1,6 @@
 ---
-id: cli
 title: CLI
+id: cli
 ---
 
 KaTeX installed [using Node.js package managers](node.md) comes with a

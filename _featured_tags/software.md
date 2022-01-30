@@ -1,10 +1,12 @@
 ---
+title: Software
+categories:
+- review
 layout: tag-list
 type: tag
-title: Software
-slug: software
-category: review
 sidebar: false
-description: >
-   Software reviews
+description: 'Software reviews
+
+'
 ---
+

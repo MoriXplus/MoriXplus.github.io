@@ -1,7 +1,7 @@
 ---
-layout: welcome
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: welcome
 more_posts: posts.md
 sidebar: true
 order: 1
