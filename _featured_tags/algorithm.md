@@ -1,10 +1,12 @@
 ---
+title: Algorithm
+categories:
+- devlog
 layout: tag-list
 type: tag
-title: Algorithm
-slug: algorithm
-category: devlog
 sidebar: true
-description: >
-   Algorithm study / Problem solutions
+description: 'Algorithm study / Problem solutions
+
+'
 ---
+

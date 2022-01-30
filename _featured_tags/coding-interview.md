@@ -1,10 +1,12 @@
 ---
+title: Coding Interview
+categories:
+- devlog
 layout: tag-list
 type: tag
-title: Coding Interview
-slug: coding-interview
-category: devlog
 sidebar: false
-description: >
-   Self-study for coding interview preparation.
+description: 'Self-study for coding interview preparation.
+
+'
 ---
+

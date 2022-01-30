@@ -1,10 +1,12 @@
 ---
+title: Data Structure
+categories:
+- devlog
 layout: tag-list
 type: tag
-title: Data Structure
-slug: data-structure
-category: devlog
 sidebar: false
-description: >
-   STL-like Data Structure Implementations
+description: 'STL-like Data Structure Implementations
+
+'
 ---
+

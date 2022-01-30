@@ -1,10 +1,12 @@
 ---
+title: C++
+categories:
+- studylog
 layout: tag-list
 type: tag
-title: C++
-slug: cpp
-category: studylog
 sidebar: true
-description: >
-   C++ related posts
+description: 'C++ related posts
+
+'
 ---
+
