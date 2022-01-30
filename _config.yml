@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://LazyRen.github.io
+url:                   https://MoriXplus.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -20,23 +20,22 @@ baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  ko-KR, en-US
+lang:                  fa-IR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Lazy Ren
+title:                 Dabsh Mori
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Work Hard to be Lazy.
-  SW Engineer at Samsung Research.
+  I share my thought maybe that can help you .
 
 # A shorter description for the sidebar.
 tagline:               >
-  Work Hard to be Lazy.
+  My thought.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [morteza mehrdad programmer devlog godot flutter android studio java C#]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -46,14 +45,12 @@ logo:                  /assets/img/seattle.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                DaeIn Lee
-  email:               daein0lee@gmail.com
+  name:                Morteza Mehrdad
+  email:               morixplus@gmail.com
   picture:             /assets/img/seattle.png
   social:
-    linkedin:          daein-lee-3b6ba9139
-    github:            lazyren
-    stackoverflow:     4294737
-    email:             daein0lee@gmail.com
+    github:            morixplus
+    email:             morixplus@gmail.com
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -66,7 +63,7 @@ author:
 #     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2022. All rights reserved.
 
 # Format of the permalinks
 # permalink:             /blog/:categories/:year-:month-:day-:title/
@@ -186,7 +183,7 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Analytics from your page, remove the line below.
-google_analytics:      UA-68290006-3
+#google_analytics:      UA-68290006-3
 
 # Set which comment system to use
 comments:
@@ -210,7 +207,7 @@ comments:
 # Make sure all variables are set properly. Check below link for detail.
 # https://giscus.vercel.app/
 giscus:
-  repo:                "LazyRen/LazyRen.github.io"
+  repo:                "MoriXplus/MoriXplus.github.io"
   repo-id:             "MDEwOlJlcG9zaXRvcnkyNzU4Mjk1NTc="
   category:            "Comments"
   category-id:         "DIC_kwDOEHDTNc4B-MIg"
@@ -390,7 +387,7 @@ plugins:
 # ---------------------------------------------------------------------------------------
 
 # Where you proof that you own this site (used by jekyll-seo-tag)
-google_site_verification: "zIn7l_GwuOi4WnyRQsdhI9Jpn6IAs0SLR_4HG8OZzsM"
+#google_site_verification: "zIn7l_GwuOi4WnyRQsdhI9Jpn6IAs0SLR_4HG8OZzsM"
 # -- or --
 # webmaster_verifications:
 #   google:              <verification-id>
